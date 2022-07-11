@@ -1,4 +1,4 @@
 ## :hourglass_flowing_sand: CodingChallenge :hourglass_flowing_sand:
 
 ### Practice thinking like a programmer!
-### Each week, I will attempt one programming problem.
+### Each week, I will attempt programming problem.
